@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,linkedin.com,PROXY
 DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
-#>Instagram
+# > Instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com,Instagram
 DOMAIN-SUFFIX,acheter-followers-instagram.com,Instagram
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com,Instagram
